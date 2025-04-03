@@ -3,6 +3,9 @@ html {
     -ms-text-size-adjust: 100%;
     font-family: sans-serif
 }
+html {
+    scroll-behavior: smooth;
+  }
 
 body {
     margin: 0
@@ -6008,4 +6011,8 @@ strong {
         width: 100%;
         margin-bottom: 30px;
     }
+}
+
+footer{
+    padding-bottom: 10px !important;
 }
